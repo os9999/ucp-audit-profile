@@ -1,0 +1,11 @@
+{
+ "ucp": {
+  "version": "2026-08-25",
+  "services": {
+   "dev.ucp.shopping": []
+  },
+  "capabilities": {}
+ },
+ "name": "AUDIT Research Agent",
+ "description": "Authorized security audit agent"
+}
