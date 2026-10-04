@@ -1,11 +1,19 @@
 {
- "ucp_version": "2026-08-25",
  "ucp": {
   "version": "2026-08-25"
  },
  "version": "2026-08-25",
  "name": "AUDIT Research Agent",
  "description": "Authorized security audit agent",
+ "services": {
+  "dev.ucp.shopping": [
+   {
+    "version": "2026-08-25",
+    "transport": "mcp",
+    "endpoint": "https://example.com/mcp"
+   }
+  ]
+ },
  "capabilities": {},
  "contact": "os911@wearehackerone.com"
 }
