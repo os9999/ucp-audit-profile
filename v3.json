@@ -1,0 +1,12 @@
+{
+  "ucp": {"version": "2026-08-25"},
+  "version": "2026-08-25",
+  "name": "AUDIT Research Agent",
+  "services": {
+    "dev.ucp.shopping": [
+      {"version": "2026-08-25", "transport": "mcp", "endpoint": "https://example.com/mcp"}
+    ]
+  },
+  "capabilities": {},
+  "contact": "os911@wearehackerone.com"
+}
