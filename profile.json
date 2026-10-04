@@ -1,11 +1,11 @@
 {
-  "ucp": {
-    "version": "2026-08-25"
-  },
-  "name": "AUDIT Research Agent",
-  "version": "1.0.0",
-  "description": "Authorized security audit agent (Shopify bug bounty, researcher-owned store)",
-  "capabilities": {},
-  "contact": "os911@wearehackerone.com",
-  "url": "https://example.com"
+ "ucp_version": "2026-08-25",
+ "ucp": {
+  "version": "2026-08-25"
+ },
+ "version": "2026-08-25",
+ "name": "AUDIT Research Agent",
+ "description": "Authorized security audit agent",
+ "capabilities": {},
+ "contact": "os911@wearehackerone.com"
 }
